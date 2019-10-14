@@ -3,3 +3,4 @@
 Commands learned so far:
 - `init `: Initializes folder
 - `Status `: looks at the current status
+- `add `: add files to status
